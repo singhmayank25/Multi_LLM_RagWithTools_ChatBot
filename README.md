@@ -1,4 +1,4 @@
-# Multi-LLM Chatbot with PHI, LLaMA2, and Mistral With RAG and Searching Capability
+# Multi-LLM RAG-Enhanced ChatBot with In-Built Search
 
 ## 📦 Setup
 
