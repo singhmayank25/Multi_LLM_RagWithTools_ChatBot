@@ -38,7 +38,7 @@ Fast, Local, Offline-Friendly: Uses Ollama-based LLMs to reduce cost and increas
 # Tools Used
 Language Models: Ollama LLMs, CrewAI Agents
 Vector Database: ChromaDB
-Embeddings: HuggingFace (all-MiniLM-L6-v2)
+Embeddings: HuggingFace (hkunlp/instructor-large)
 Search & Retrieval: Wikipedia, DuckDuckGo
 Monitoring: LangSmith (prompt & token tracking)
 Demo Interface: Streamlit / Web App
