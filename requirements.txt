@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain_community
+langchain_ollama
+chromadb
+unstructured
+sentence-transformers
+python-dotenv
+duckduckgo-search
+wikipedia
